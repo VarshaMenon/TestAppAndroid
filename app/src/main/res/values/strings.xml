@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Test App</string>
+    <string name="created_at_with_colon">"Created At : %1$s"</string>
+</resources>
